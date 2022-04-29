@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/imarealone.mp3-4d7d51ce14db7ba5af45c355565ac5da.mp3str"
+
+[deps]
+
+source_file="res://audio/imarealone.mp3"
+dest_files=[ "res://.import/imarealone.mp3-4d7d51ce14db7ba5af45c355565ac5da.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

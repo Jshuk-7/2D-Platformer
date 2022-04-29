@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Nas-Mastermind.mp3-5d0db294902b126f834fec8fbf11fd69.mp3str"
+
+[deps]
+
+source_file="res://audio/Nas-Mastermind.mp3"
+dest_files=[ "res://.import/Nas-Mastermind.mp3-5d0db294902b126f834fec8fbf11fd69.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

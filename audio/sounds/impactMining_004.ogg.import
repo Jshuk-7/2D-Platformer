@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/impactMining_004.ogg-a86e8f8e7ae60406e4c4583e0537705a.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/impactMining_004.ogg"
+dest_files=[ "res://.import/impactMining_004.ogg-a86e8f8e7ae60406e4c4583e0537705a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

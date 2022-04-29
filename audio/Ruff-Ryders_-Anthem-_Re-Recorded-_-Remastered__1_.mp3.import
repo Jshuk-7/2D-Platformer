@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Ruff-Ryders_-Anthem-_Re-Recorded-_-Remastered__1_.mp3-54071903e43b7a80e71b8509f6e982f5.mp3str"
+
+[deps]
+
+source_file="res://audio/Ruff-Ryders_-Anthem-_Re-Recorded-_-Remastered__1_.mp3"
+dest_files=[ "res://.import/Ruff-Ryders_-Anthem-_Re-Recorded-_-Remastered__1_.mp3-54071903e43b7a80e71b8509f6e982f5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

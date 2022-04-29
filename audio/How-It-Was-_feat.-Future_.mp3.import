@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/How-It-Was-_feat.-Future_.mp3-7e963a243770627f8de85a6ed72dc089.mp3str"
+
+[deps]
+
+source_file="res://audio/How-It-Was-_feat.-Future_.mp3"
+dest_files=[ "res://.import/How-It-Was-_feat.-Future_.mp3-7e963a243770627f8de85a6ed72dc089.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

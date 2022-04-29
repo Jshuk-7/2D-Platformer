@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Marion-Band_-Hold-Up-_feat.-Nipsey-Hussle_-_GTA-V-Soundtrack_.mp3-b7725d9f236a8790e3abc1afbf8273bf.mp3str"
+
+[deps]
+
+source_file="res://audio/Marion-Band_-Hold-Up-_feat.-Nipsey-Hussle_-_GTA-V-Soundtrack_.mp3"
+dest_files=[ "res://.import/Marion-Band_-Hold-Up-_feat.-Nipsey-Hussle_-_GTA-V-Soundtrack_.mp3-b7725d9f236a8790e3abc1afbf8273bf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

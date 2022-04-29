@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/impactWood_medium_004.ogg-e3792a8ae6d3e76ac333dc446a5a57a9.oggstr"
+
+[deps]
+
+source_file="res://audio/sounds/impactWood_medium_004.ogg"
+dest_files=[ "res://.import/impactWood_medium_004.ogg-e3792a8ae6d3e76ac333dc446a5a57a9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

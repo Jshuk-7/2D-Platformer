@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Nas-Blaze-A-50.mp3-2bd7d8daa3b0d5388ed78296e87641a3.mp3str"
+
+[deps]
+
+source_file="res://audio/Nas-Blaze-A-50.mp3"
+dest_files=[ "res://.import/Nas-Blaze-A-50.mp3-2bd7d8daa3b0d5388ed78296e87641a3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

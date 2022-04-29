@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Nine-Is-God-_-Wavves-Lyrics.mp3-32564c226f4185b15b4ef88aaa1632a0.mp3str"
+
+[deps]
+
+source_file="res://audio/Nine-Is-God-_-Wavves-Lyrics.mp3"
+dest_files=[ "res://.import/Nine-Is-God-_-Wavves-Lyrics.mp3-32564c226f4185b15b4ef88aaa1632a0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

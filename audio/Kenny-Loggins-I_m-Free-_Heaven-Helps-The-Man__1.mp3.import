@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Kenny-Loggins-I_m-Free-_Heaven-Helps-The-Man__1.mp3-068a50288a75768bf6b4631074b8fc6f.mp3str"
+
+[deps]
+
+source_file="res://audio/Kenny-Loggins-I_m-Free-_Heaven-Helps-The-Man__1.mp3"
+dest_files=[ "res://.import/Kenny-Loggins-I_m-Free-_Heaven-Helps-The-Man__1.mp3-068a50288a75768bf6b4631074b8fc6f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

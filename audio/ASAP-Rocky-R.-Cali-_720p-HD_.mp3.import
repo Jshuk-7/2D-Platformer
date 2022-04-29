@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ASAP-Rocky-R.-Cali-_720p-HD_.mp3-93b42e72540c6958fcc473e3054296e9.mp3str"
+
+[deps]
+
+source_file="res://audio/ASAP-Rocky-R.-Cali-_720p-HD_.mp3"
+dest_files=[ "res://.import/ASAP-Rocky-R.-Cali-_720p-HD_.mp3-93b42e72540c6958fcc473e3054296e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
